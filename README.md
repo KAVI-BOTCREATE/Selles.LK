@@ -1,1 +1,115 @@
-# Selles.LK
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>KAVI_OFFICIAL WEB</title>
+    <style>
+        body {
+            background-color: black;
+            color: white;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            text-align: center;
+        }
+        .container {
+            padding: 20px;
+        }
+        h1 {
+            color: red;
+        }
+        .description {
+            margin-bottom: 30px;
+        }
+        .cards {
+            display: flex;
+            justify-content: center;
+            flex-wrap: wrap;
+        }
+        .card {
+            background-color: #333;
+            border-radius: 10px;
+            margin: 10px;
+            padding: 20px;
+            width: 150px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+        }
+        .card img {
+            width: 100%;
+            border-radius: 50%;
+        }
+        .card h3 {
+            color: blue;
+        }
+        .card a {
+            display: inline-block;
+            margin-top: 10px;
+            padding: 10px 20px;
+            background-color: green;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+        .card a:hover {
+            background-color: red;
+        }
+        .bottom-description {
+            margin-top: 40px;
+            padding: 20px;
+            background-color: #222;
+            border-radius: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>KAVI_OFFICIAL TEST WEB</h1>
+        <p class="description"> This is kavi_official webpage . lets start coding.</p>
+        
+        <div class="cards">
+            <div class="card">
+                <img src="https://telegra.ph/file/037452106d552eecbe983.png" alt="Profile 1">
+                <h3>WHATSAPP</h3>
+                <a href="https://wa.me/message/DFUWWIIJ6LICB1">CONTAC NOW</a>
+            </div>
+            <div class="card">
+                <img src="https://telegra.ph/file/fa522c566e106ec1cdf44.png" alt="Profile 2">
+                <h3>FACEBOOK</h3>
+                <a href="https://www.facebook.com/profile.php?id=100074251710652&mibextid=ZbWKwL">Follow</a>
+            </div>
+            <div class="card">
+                <img src="https://telegra.ph/file/15cd2b25d1d56ceab753b.png" alt="Profile 3">
+                <h3>Telegram</h3>
+                <a href="https://t.me/kavi_officials">Contac</a>
+            </div>
+            <div class="card">
+                <img src="https://telegra.ph/file/8c76c6f1fcf89b7ece921.png" alt="Profile 4">
+                <h3>Intagram</h3>
+                <a href="https://www.instagram.com/kavindu_dilshara_?igsh=MXBlcWgxZmZzcWYzMg==">Fallow</a>
+            </div>
+            <div class="card">
+                <img src="https://telegra.ph/file/0055c6b39efeb3631a3bc.png" alt="Profile 5">
+                <h3>GITHUB</h3>
+                <a href="#">GITHUB</a>
+            </div>
+            <div class="card">
+                <img src="https://telegra.ph/file/d2988d111049ad240adff.png" alt="Profile 6">
+                <h3>YOUTUBE</h3>
+                <a href="https://www.youtube.com/@kavi_official-99">SUBSCRIBE</a>
+            </div>
+        </div>
+
+        <div class="bottom-description">
+            <p>•Join our WhatsApp group that contains everything you need 🎩✨.
+
+ <p>• An get new experience join with us 🧝🍃🪸</p>
+ <p>• Follow our Educational Facebook page 🥊🎖️🎪</p>
+
+ <p>• We are in tiktok , You can follow us . Our new Videos in there 🤹‍♂️🪼✨</p>
+
+ <p>• The links to all this information are used in my profile 🔖🎀🪬</p>
+        </div>
+    </div>
+</body>
+</html>
